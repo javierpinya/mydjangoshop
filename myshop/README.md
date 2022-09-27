@@ -1,2 +1,0 @@
-# mydjangoshop
-django example
